@@ -1,0 +1,2 @@
+# hyprland-guiutils
+Hyprland GUI utilities (successor to hyprland-qtutils)
