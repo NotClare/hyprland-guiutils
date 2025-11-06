@@ -83,6 +83,8 @@ int main(int argc, char** argv, char** envp) {
                        ->size(CDynamicSize{CDynamicSize::HT_SIZE_PERCENT, Hyprtoolkit::CDynamicSize::HT_SIZE_AUTO, {1, 1}})
                        ->commence();
 
+    content->setPositionFlag(Hyprtoolkit::IElement::HT_POSITION_FLAG_HCENTER, true);
+
     donateButton = CButtonBuilder::begin()
                        ->label("💝 Support")
                        ->onMainClick([w = WP<IWindow>{window}](auto) {

@@ -112,6 +112,8 @@ int main(int argc, char** argv, char** envp) {
                        ->color([] { return backend->getPalette()->m_colors.text; })
                        ->commence();
 
+    content->setPositionFlag(Hyprtoolkit::IElement::HT_POSITION_FLAG_HCENTER, true);
+
     auto null2 = CNullBuilder::begin()->commence();
 
     auto layout2 = CRowLayoutBuilder::begin()->gap(3)->size({CDynamicSize::HT_SIZE_PERCENT, CDynamicSize::HT_SIZE_AUTO, {1, 1}})->commence();
