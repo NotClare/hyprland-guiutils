@@ -61,6 +61,7 @@ pkg_check_modules(
   hyprutils>=0.2.4
   hyprtoolkit>=0.4.0
   pixman-1
+  xkbcommon
   libdrm)
 
 add_subdirectory(utils/dialog)
