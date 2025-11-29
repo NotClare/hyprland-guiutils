@@ -45,6 +45,7 @@ stdenv.mkDerivation {
     hyprtoolkit
     hyprutils
     libdrm
+    libxkbcommon
     pixman
   ];
 
